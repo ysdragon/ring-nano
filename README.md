@@ -12,7 +12,7 @@ wget -O ~/.nano/ring.nanorc https://raw.githubusercontent.com/ysdragon/ring-nano
 ```
 3. Add this line to ~/.nanorc
 ```bash
-load "~/.nano/ring.nanorc"
+include "~/.nano/ring.nanorc"
 ```
 
 ### Demo
